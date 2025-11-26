@@ -18,7 +18,7 @@ Tìm kiếm trên Archive Today, chúng ta có được file ảnh bị ẩn:
 
 Có một mã hex: 66696c652f642f31595834446974716c366b5a754b7a4c424778615230655f4c3343766c62463477
 
-giải mã ra ta được một link google drive, đầy đủ như sau: https://drive.google.com/file/d/1YX4Ditql6kZuKzLBGxaR0e_L3CvlbF4w
+Giải mã ra ta được một link google drive, đầy đủ như sau: https://drive.google.com/file/d/1YX4Ditql6kZuKzLBGxaR0e_L3CvlbF4w
 
 <img width="1919" height="1039" alt="image" src="https://github.com/user-attachments/assets/7ec61f28-5917-4f81-a259-758524859aed" />
 
@@ -44,7 +44,7 @@ Cùng với 1 chỉ dẫn rằng "Nhật ký nhiệm vụ bắt buộc của ch�
 Pt2 solved.
 
 ## PART 3: 'Is_C0mpl3t3_' (Is complete...)
-Thì theo mẩu thông tin tìm được từ từ bức ảnh trong file drive, chúng ta biết được nơi có đánh giá 5 sao cần tìm là Đại học Hằng Hải và Đại Dương Hàn Quộc
+Thì theo mẩu thông tin tìm được từ từ bức ảnh trong file drive, chúng ta biết được nơi có đánh giá 5 sao cần tìm là Đại học Hằng Hải và Đại Dương Hàn Quốc
 
 <img width="1919" height="997" alt="image" src="https://github.com/user-attachments/assets/66736e77-d949-42b4-a665-11ee7c27c3e3" />
 
